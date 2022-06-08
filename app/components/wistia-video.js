@@ -1,0 +1,1 @@
+export { default } from 'ember-wistia-video/components/wistia-video';
